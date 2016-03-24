@@ -1,3 +1,5 @@
+**Learning Stuff**
+
 # What is it #
 
 A fork of the [node.js chat app](https://github.com/eiriksm/chat-test-2k) by [@orkj](https://twitter.com/orkj) 
